@@ -8,6 +8,8 @@ If the owner of these images or the devs of Oneshot don't like this being up, le
 
 I created this repo to change a single file. Have fun.
 
+And thanks of course to the creator of the original repo CedrinMedia.
+
 ## Wallpaper Credits (Taken from credits.txt in OSWME)
 ____________________________________________________
 ### *Marina "Sylladexter" K*
